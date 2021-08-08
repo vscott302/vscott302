@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vscott302
+- 👋 Hi, I’m @vscott302 (new to Github by the way)
 - 🌱 I’m currently learning python 
 - ❌ I do not check messages/other communications regarding coding on Sundays. Wednesdays, and Fridays
 - 🐦 Feel free to DM me on my Twitter handle @vscott302
